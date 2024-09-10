@@ -68,9 +68,8 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <br>
-
----<br>
----<br>
+<br>
+<br>
 
 <div align="center">
   <h2>📬 ¡Contáctame!</h2>
